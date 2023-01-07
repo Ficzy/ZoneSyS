@@ -1,0 +1,6 @@
+name: ZoneSyS
+version: '${project.version}'
+main: system.zone.Zone
+api-version: 1.19
+authors: [ Ficzy ]
+description: not Optimized
